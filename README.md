@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/MarketingPipeline/IPTV-Parser.js"> 
-<img height=350 alt="Repo Banner for Pluto-TV.js" src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=300&section=header&text=Pluto-TV.js&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Easily%20parse%20M3U%20from%20text%20or%20URL&descAlignY=60&descAlign=50"></img></a>
+<img height=350 alt="Repo Banner for Pluto-TV.js" src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=300&section=header&text=Pluto-TV.js&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Find%20free%20TV%20streams%20from%20Pluto%20TV&descAlignY=60&descAlign=50"></img></a>
 
 </div>  
     
@@ -31,7 +31,7 @@
 How to use Pluto-TV.js:
 
 ```js
-import {PlutoTV} from 'https://cdn.jsdelivr.net/gh/MarketingPipeline/Pluto-TV.js@v1.0.0/dist/pluto-tv.min.js';
+import {PlutoTV} from 'https://cdn.jsdelivr.net/gh/MarketingPipeline/Pluto-TV.js@main/dist/pluto-tv.min.js';
 
 try {
     /// Search Channels - DEFAULT USA CHANNELS.
