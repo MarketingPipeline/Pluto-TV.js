@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "@MarketingPipeline/PlutoTVjs",
+  "description": "A JavaScript library for fetching free Pluto TV streams.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MarketingPipeline/Pluto-TV.js",
+  "license": "MIT",
+  "main": "./dist/pluto-tv.min.js",
+  "bugs": {
+    "url": "https://github.com/MarketingPipeline/Pluto-TV.js/issues"
+  },
+  "author": {
+    "url": "https://github.com/MarketingPipeline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarketingPip/Pluto-TV.js.git"
+  }
+}
