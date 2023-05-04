@@ -50,6 +50,9 @@ try {
 These are the supported country codes ```"br", "de", "es", "fr", "mx", "uk", "us"```. 
 
 
+## Notice: Pluto TV Streaming Access
+Please be advised that while this library helps offer access to Pluto TV streams, it is important to note that the availability of certain content may be limited to certain regions or countries. Therefore, it is possible that some or all Pluto TV streams may be geo-restricted in your location.
+
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Pluto-TV.js)
 
 Want to improve this project? Create a pull request with detailed changes / improvements! If approved you will be added to the list of contributors of this awesome project!
